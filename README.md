@@ -1,6 +1,6 @@
 # Nikhil Ismail
 
-👋 Hey! I'm a rising junior studying Computer Science at Yale University with demonstrated experience in software engineering and a particular interest in entrepreneurship, social networks, and e-commerce. This summer, I'll be interning at <a href="https://www.courier.com/">Courier (YC S19)</a> as a software engineer.
+👋 Hey! I'm a rising junior studying Computer Science at Yale University with demonstrated experience in software engineering and a particular interest in entrepreneurship, social networks, and e-commerce. This summer, I'll be interning at <a href="https://www.courier.com/">Courier</a> (YC S19) as a software engineer.
 
 I am always open to connect and expand my network so feel free to reach out at nikhil.ismail@yale.edu
 
