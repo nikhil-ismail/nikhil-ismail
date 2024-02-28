@@ -1,6 +1,6 @@
 # Nikhil Ismail
 
-👋 Hey! I'm a junior studying Computer Science at Yale University with demonstrated experience in software engineering and a particular interest in entrepreneurship, social networks, and e-commerce.
+👋 Hey! I'm a senior studying Computer Science at Yale University with demonstrated experience in software engineering and a particular interest in entrepreneurship, social networks, and e-commerce.
 
 Previously, I've interned as a software engineer at Microsoft on the Azure Files team, <a href="https://www.courier.com/" target="_blank">Courier</a> (YC S19), and <a href="https://hauskey.com/" target="_blank">Haüskey</a>.
 
