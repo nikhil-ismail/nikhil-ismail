@@ -6,7 +6,7 @@ Previously, I've interned as a software engineer at Microsoft on the Azure Files
 
 I am always open to connect and expand my network so feel free to reach out at nikhil.ismail@yale.edu
 
-**Skills**
+**Techinal Skills**\
 Programming Languages: TypeScript, JavaScript, Python, C, C#, Java, SQL, HTML, SASS/CSS, R\
 Frameworks/Databases: React/React Native, Angular, Node.js, Flask, .NET, MongoDB, AWS, Firebase
 
