@@ -1,10 +1,10 @@
 # Nikhil Ismail
 
-👋 Hey! I'm a senior studying Computer Science at Yale University with demonstrated experience in software engineering and a particular interest in entrepreneurship, social networks, and e-commerce.
+👋 Hey! I'm a software engineer at Microsoft on the Azure Files team. I graduated from Yale University with a major in Computer Science and have demonstrated experience in software engineering and a particular interest in entrepreneurship, social networks, and e-commerce.
 
-Previously, I've interned as a software engineer at Microsoft (Azure Files), <a href="https://www.courier.com/" target="_blank">Courier</a> (YC S19) and <a href="https://hauskey.com/" target="_blank">Haüskey</a>.
+I previously was a founding SWE at Helios and interned at Microsoft, <a href="https://www.courier.com/" target="_blank">Courier</a> (YC S19) and <a href="https://hauskey.com/" target="_blank">Haüskey</a>.
 
-I am always open to connect and expand my network so feel free to reach out at nikhil.ismail@yale.edu
+I am always open to connect and expand my network so feel free to reach out at nikhil.ismail20@gmail.com
 
 <!--
 **nikhil-ismail/nikhil-ismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
